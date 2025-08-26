@@ -74,7 +74,7 @@ BackEnd/
 - **Icons**: Lucide React icons with custom icon set and SVG optimization
 
 ### Backend
-- **Runtime**: Node.js with performance optimization
+- **Runtime**: Node.js with performance optimization and clustering support
 - **Framework**: Express.js with middleware architecture
 - **Database**: MongoDB with Mongoose ODM and connection pooling
 - **Authentication**: JWT tokens with refresh mechanism
