@@ -186,11 +186,11 @@ BackEnd/
 
 ## 🤝 Contributing
 
-1. Fork the repository and clone locally
-2. Create a feature branch with descriptive name
-3. Make your changes following coding standards
-4. Test thoroughly with automated tests
-5. Submit a pull request with detailed description
+1. Fork the repository and clone locally with SSH support
+2. Create a feature branch with descriptive name and issue linking
+3. Make your changes following coding standards and style guides
+4. Test thoroughly with automated tests and manual verification
+5. Submit a pull request with detailed description and screenshots
 
 ## 📝 License
 
