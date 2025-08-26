@@ -199,9 +199,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🆘 Support
 
 For support and questions:
-- Create an issue in the GitHub repository
-- Contact the development team
-- Check the documentation
+- Create an issue in the GitHub repository with detailed information
+- Contact the development team through multiple channels
+- Check the documentation and troubleshooting guides
 
 ## 🔮 Future Roadmap
 
