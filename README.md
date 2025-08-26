@@ -66,7 +66,7 @@ BackEnd/
 ## 🛠️ Technology Stack
 
 ### Frontend
-- **Framework**: Next.js 14 with App Router and TypeScript support
+- **Framework**: Next.js 14 with App Router and TypeScript support with experimental features
 - **Language**: TypeScript with strict type checking
 - **Styling**: Tailwind CSS + shadcn/ui components with custom design system
 - **State Management**: React Context + Custom Hooks with persistent state
