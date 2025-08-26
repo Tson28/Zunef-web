@@ -30,7 +30,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 - **User Management**: Admin control over user accounts with detailed analytics and user behavior tracking
 - **Product Management**: Add, edit, and manage source code listings with version control and automated testing
 - **Category Management**: Organize products by categories with hierarchical structure and smart tagging
-- **Order Monitoring**: Track all transactions and orders with real-time notifications
+- **Order Monitoring**: Track all transactions and orders with real-time notifications and automated alerts
 - **Analytics Dashboard**: Business insights and statistics with predictive analytics
 
 ## 🏗️ Architecture
