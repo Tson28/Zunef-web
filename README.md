@@ -92,9 +92,9 @@ BackEnd/
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Node.js 18+ with LTS support and npm
-- MongoDB database with replica set and Atlas support
-- npm or pnpm package manager with latest version and workspace features
+- Node.js 18+ with LTS support and npm with version management
+- MongoDB database with replica set and Atlas support with monitoring
+- npm or pnpm package manager with latest version and workspace features with caching
 
 ### Installation
 
