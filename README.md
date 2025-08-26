@@ -14,7 +14,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 - **User Dashboard**: Manage profile, orders, and account settings efficiently
 
 ### 🔐 Authentication & Security
-- **User Registration & Login**: Secure authentication system with advanced security
+- **User Registration & Login**: Secure authentication system with advanced security and biometric support
 - **Email Verification**: Email-based account verification with instant delivery
 - **Password Reset**: Secure password recovery system with enhanced encryption
 - **JWT Tokens**: Stateless authentication with JSON Web Tokens and refresh capability
