@@ -81,7 +81,7 @@ BackEnd/
 - **File Upload**: Multer middleware with file validation and virus scanning
 - **Email**: Nodemailer with templates and delivery tracking and bounce handling
 - **API Documentation**: Swagger/OpenAPI with interactive testing and code generation
-- **Validation**: Custom validation middleware with error handling
+- **Validation**: Custom validation middleware with error handling and sanitization
 
 ### Development Tools
 - **Package Manager**: npm/pnpm with workspace support
