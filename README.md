@@ -233,3 +233,4 @@ For support and questions:
 *Last updated: August 2024*
 *Version: 1.0.0*
 *License: MIT*
+*Contributors: Open for community contributions*
