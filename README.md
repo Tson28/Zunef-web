@@ -78,7 +78,7 @@ BackEnd/
 - **Framework**: Express.js with middleware architecture and error handling
 - **Database**: MongoDB with Mongoose ODM and connection pooling with indexing optimization
 - **Authentication**: JWT tokens with refresh mechanism and token rotation
-- **File Upload**: Multer middleware with file validation
+- **File Upload**: Multer middleware with file validation and virus scanning
 - **Email**: Nodemailer with templates and delivery tracking
 - **API Documentation**: Swagger/OpenAPI with interactive testing
 - **Validation**: Custom validation middleware with error handling
