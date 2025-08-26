@@ -7,7 +7,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 ## ✨ Features
 
 ### 🛒 E-commerce Capabilities
-- **Product Catalog**: Browse and search through available source code projects
+- **Product Catalog**: Browse and search through available source code projects with advanced filtering
 - **Shopping Cart**: Add items to cart and manage purchases with real-time updates
 - **Secure Checkout**: Integrated payment processing with multiple payment methods
 - **Order Management**: Track order status and download purchased code instantly
