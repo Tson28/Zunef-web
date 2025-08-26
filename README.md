@@ -27,7 +27,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 - **Next.js 14**: Latest React framework with App Router and server-side rendering with edge runtime support
 
 ### 🛠️ Admin Panel
-- **User Management**: Admin control over user accounts with detailed analytics
+- **User Management**: Admin control over user accounts with detailed analytics and user behavior tracking
 - **Product Management**: Add, edit, and manage source code listings with version control
 - **Category Management**: Organize products by categories with hierarchical structure
 - **Order Monitoring**: Track all transactions and orders with real-time notifications
