@@ -49,7 +49,7 @@ FrontEnd/
 └── types/                 # TypeScript type definitions
 ```
 
-### Backend (Node.js + Express) - Scalable Server Architecture
+### Backend (Node.js + Express) - Scalable Server Architecture with Load Balancing
 ```
 BackEnd/
 ├── src/
