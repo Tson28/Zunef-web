@@ -35,7 +35,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 
 ## 🏗️ Architecture
 
-### Frontend (Next.js 14) - Modern React Architecture
+### Frontend (Next.js 14) - Modern React Architecture with Performance Optimization
 ```
 FrontEnd/
 ├── app/                    # App Router pages
