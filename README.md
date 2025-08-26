@@ -24,7 +24,7 @@ ZuneF is a comprehensive full-stack e-commerce platform designed specifically fo
 - **Responsive Design**: Mobile-first approach with modern UI components and adaptive layouts with touch optimization
 - **Dark/Light Theme**: Customizable theme system with automatic detection and custom color schemes
 - **Component Library**: Reusable UI components built with shadcn/ui and custom extensions with animation support
-- **Next.js 14**: Latest React framework with App Router and server-side rendering
+- **Next.js 14**: Latest React framework with App Router and server-side rendering with edge runtime support
 
 ### 🛠️ Admin Panel
 - **User Management**: Admin control over user accounts with detailed analytics
