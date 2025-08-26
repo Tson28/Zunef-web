@@ -76,7 +76,7 @@ BackEnd/
 ### Backend
 - **Runtime**: Node.js with performance optimization and clustering support
 - **Framework**: Express.js with middleware architecture and error handling
-- **Database**: MongoDB with Mongoose ODM and connection pooling
+- **Database**: MongoDB with Mongoose ODM and connection pooling with indexing optimization
 - **Authentication**: JWT tokens with refresh mechanism
 - **File Upload**: Multer middleware with file validation
 - **Email**: Nodemailer with templates and delivery tracking
