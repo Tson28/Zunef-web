@@ -70,7 +70,7 @@ BackEnd/
 - **Language**: TypeScript with strict type checking and path mapping
 - **Styling**: Tailwind CSS + shadcn/ui components with custom design system and CSS-in-JS support
 - **State Management**: React Context + Custom Hooks with persistent state and optimistic updates
-- **UI Components**: shadcn/ui component library with accessibility features
+- **UI Components**: shadcn/ui component library with accessibility features and keyboard navigation
 - **Icons**: Lucide React icons with custom icon set
 
 ### Backend
