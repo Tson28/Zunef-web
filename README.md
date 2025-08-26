@@ -67,7 +67,7 @@ BackEnd/
 
 ### Frontend
 - **Framework**: Next.js 14 with App Router and TypeScript support with experimental features
-- **Language**: TypeScript with strict type checking
+- **Language**: TypeScript with strict type checking and path mapping
 - **Styling**: Tailwind CSS + shadcn/ui components with custom design system
 - **State Management**: React Context + Custom Hooks with persistent state
 - **UI Components**: shadcn/ui component library with accessibility features
