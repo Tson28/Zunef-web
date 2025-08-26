@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-ZuneF is a comprehensive full-stack e-commerce platform designed specifically for selling and purchasing source code. Built with modern technologies, it provides a seamless experience for developers to buy, sell, and manage source code projects. This platform revolutionizes how developers discover and acquire quality source code, making it the go-to marketplace for software developers worldwide.
+ZuneF is a comprehensive full-stack e-commerce platform designed specifically for selling and purchasing source code. Built with modern technologies, it provides a seamless experience for developers to buy, sell, and manage source code projects. This platform revolutionizes how developers discover and acquire quality source code.
 
 ## ✨ Features
 
