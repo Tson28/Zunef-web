@@ -84,7 +84,7 @@ BackEnd/
 - **Validation**: Custom validation middleware with error handling and sanitization
 
 ### Development Tools
-- **Package Manager**: npm/pnpm with workspace support
+- **Package Manager**: npm/pnpm with workspace support and dependency management
 - **Code Quality**: ESLint, Prettier with custom rules
 - **Version Control**: Git with branching strategy
 - **Environment**: Environment variables with .env and configuration management
