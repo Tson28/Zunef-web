@@ -86,7 +86,7 @@ BackEnd/
 ### Development Tools
 - **Package Manager**: npm/pnpm with workspace support and dependency management
 - **Code Quality**: ESLint, Prettier with custom rules and automated formatting
-- **Version Control**: Git with branching strategy
+- **Version Control**: Git with branching strategy and automated deployment
 - **Environment**: Environment variables with .env and configuration management
 
 ## 🚀 Getting Started
