@@ -87,7 +87,7 @@ BackEnd/
 - **Package Manager**: npm/pnpm with workspace support and dependency management
 - **Code Quality**: ESLint, Prettier with custom rules and automated formatting
 - **Version Control**: Git with branching strategy and automated deployment
-- **Environment**: Environment variables with .env and configuration management
+- **Environment**: Environment variables with .env and configuration management with secrets rotation
 
 ## 🚀 Getting Started
 
